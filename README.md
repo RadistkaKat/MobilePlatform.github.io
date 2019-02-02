@@ -1,1 +1,1 @@
-# MobilePlatform.github.io
+# mobileplatform.github.io
